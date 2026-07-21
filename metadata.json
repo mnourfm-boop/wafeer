@@ -1,0 +1,6 @@
+{
+  "name": "Wafeer",
+  "description": "Wafeer is an innovative coupon and discount code platform offering verified, up-to-date deals and exclusive offers for Arab and international online stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
